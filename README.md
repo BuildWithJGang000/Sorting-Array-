@@ -1,2 +1,9 @@
-#	Title	Solution	Difficulty
-1946	Largest Number After Mutating Substring	C++, Java	Medium
+# LeetCode
+
+## LeetCode Algorithm
+
+*(Notes: "🔒" means you need to buy a book from LeetCode)*
+
+| #    | Title                                                                   | Solution    | Difficulty |
+|------|-------------------------------------------------------------------------|-------------|------------|
+| 888 | [ https://leetcode.com/problems/fair-candy-swap](#)                                                     | [C++](#),   | Easy       |    |
