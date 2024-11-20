@@ -6,4 +6,4 @@
 
 | #    | Title                                                                   | Solution    | Difficulty |
 |------|-------------------------------------------------------------------------|-------------|------------|
-| 888 | [ https://leetcode.com/problems/fair-candy-swap](#)                                                     | [C++](#),   | Easy       |    |
+| 888 | [https://leetcode.com/problems/fair-candy-swap/description/                                                    | [C++](#),   | Easy       |    |
